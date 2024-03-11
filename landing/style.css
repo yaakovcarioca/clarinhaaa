@@ -1,0 +1,58 @@
+/*
+Cores
+Loiro castanhado: D2B48C
+Rosa da página: F50057
+*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+
+    font-family: "Caveat", sans-serif;
+}
+
+.title {
+    margin-top: 80px;
+    color: #F50057;
+    font-size: 50px;
+    font-weight: 700;
+    font-style: normal;
+}
+
+main {
+    display: flex;
+    margin: 0 30px 0 50px;
+    gap: 10px;
+    margin-bottom: 50px;
+}
+
+main img {
+    width: 50%;
+}
+
+.main-info {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    padding: 60px;
+}
+
+.main-info h2 {
+    font-size: 36px;
+}
+ .main-info p {
+    font-size: 28px;
+ }
+
+ nav {
+    margin: 70px 0 70px 0;
+ }
+
+ nav ul li a {
+    text-decoration: none;
+    color: #F50057;
+    font-size: 25px;
+ }
