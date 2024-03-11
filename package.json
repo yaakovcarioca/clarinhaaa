@@ -1,0 +1,12 @@
+{
+  "name": "clarinhaaa",
+  "version": "1.0.0",
+  "description": "Páginas Estáticas com conteúdos diversos para minha filhota <3",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
