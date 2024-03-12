@@ -40,3 +40,10 @@ p {
     display: flex;
     gap: 30px;
 }
+
+@media only screen and (max-width: 1021px) {
+    .main-box {
+        display: flex;
+        flex-direction: column;
+    }
+}
